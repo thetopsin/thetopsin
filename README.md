@@ -4,8 +4,8 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-Soy estudiante de ingeniería informática. Estoy ampliando mis conocimientos tanto en desarrollo front-end como back-end. Me encanta aprender y crear cosas nuevas, productivas, innovadoras y creativas.
-- 🌱 Actualmente estoy aprendiendo...
+I am a computer engineering student. I am expanding my knowledge in both front-end and back-end development. I love learning and creating new, productive, innovative, and creative things.
+- 🌱I am currently learning...
   - Kotlin
   - PHP
   - CSS
